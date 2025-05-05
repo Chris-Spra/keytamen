@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+  <link href="style.css" rel="stylesheet" type="text/css"/>
+  <style>
+    .ds {
+      border-style: solid;
+      border-width: 0px;
+    }
+    .cons {
+      background-image:url("Consummation.jpg");
+      width: 100%;
+      background-size: cover;
+      background-position: center;
+    }
+  </style>
+</head>
+
+  <body class="bg-dark">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+      <div class="container">
+        <a class="navbar-brand" href="#">Keytamen</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-md-0">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="keytamen.html">Play!</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">How to play</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div style="margin: 0; padding: 0;  height: 40vh;" class="cons bg-image d-flex justify-content-center align-items-center">
+      <div class="container text-center text-white bg-dark p-5 h1 ds rounded" id="quomodo" style="margin-top: 50%; margin-bottom: 50%;">
+        <strong>
+          Quōmodo lūdere
+        </strong>
+      </div>
+    </div>
+    <div class="ds">
+      <div class="container text-center text-white p-3 ds my-5">
+        <strong>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis erat convallis, hendrerit risus sit amet, facilisis risus. In hac habitasse platea dictumst. Quisque gravida aliquam sem ut iaculis. Nam in massa id dolor pellentesque convallis. Aliquam elit dui, sodales eu est eu, malesuada posuere nibh. Curabitur blandit magna non nulla porta, quis porta nibh accumsan. Vestibulum consequat elementum arcu, eget pellentesque lacus elementum condimentum. Duis nulla ligula, malesuada sit amet pretium ultricies, scelerisque id ipsum. In pharetra arcu risus, ullamcorper sagittis nisl posuere id. Morbi eu lectus et lorem consectetur dictum id ut ligula. Donec placerat felis eleifend massa aliquam dignissim.
+
+          Ut nisl nulla, interdum at tristique vitae, suscipit sed quam. Suspendisse faucibus, massa sed rhoncus eleifend, tellus neque aliquam odio, congue congue tortor urna nec sem. Proin commodo, nunc nec luctus vestibulum, orci mi varius dolor, at facilisis eros nibh malesuada nisi. Nam pellentesque orci dolor, nec hendrerit mi venenatis sed. Mauris massa nibh, fringilla eu dapibus in, efficitur sit amet felis. Nulla facilisi. Aenean sit amet magna vitae dui finibus luctus et vel elit. Praesent dapibus mauris a maximus vehicula. Nam ipsum quam, finibus et risus a, posuere tempus odio. Duis viverra vehicula gravida. Quisque sed quam quis metus volutpat malesuada nec in libero.
+
+          Sed tincidunt sagittis orci, id tempor nunc suscipit pretium. Aenean tristique felis enim, a faucibus diam tincidunt at. Donec in ex quis risus sodales volutpat eu sed sem. Suspendisse potenti. Donec a porttitor velit, et ullamcorper tellus. Ut at enim vitae tortor mattis hendrerit. Phasellus sed blandit erat. Aliquam quis purus sed velit pellentesque ullamcorper nec non ex. Nunc dictum dui vel mattis facilisis. Praesent et leo at erat tristique lacinia. Vestibulum non blandit ipsum. Etiam mauris augue, efficitur sed erat ut, pharetra ornare est. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+        </strong>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+    <script>
+      function updateWidth() {
+
+          if (window.innerWidth > 630) {
+              document.getElementById("quomodo").style.width = "50vh";
+          } else {
+              document.getElementById("quomodo").style.width = "75%";
+          }
+        
+      }
+
+      updateWidth();
+
+      window.addEventListener("resize", updateWidth);
+    </script>
+  </body>
+</html>
