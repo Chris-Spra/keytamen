@@ -13,10 +13,11 @@ fetch("questions.txt")
         lines.forEach(line => {
             const parts = line.split("&&");
             if (parts.length === 2) {
-                if (line.substring(0, 3).trim() == "B1:") {
+                const trimmedLine = line.trim();
+                if (trimmedLine.startsWith("B1: ")) {
                     bonusQuestions1.push(parts[0].trim());
                     bonusAnswers1.push(parts[1].trim());
-                } else if (line.substring(0, 3).trim() == "B2:") {
+                } else if (trimmedLine.startsWith("B2: ")) {
                     bonusQuestions2.push(parts[0].trim());
                     bonusAnswers2.push(parts[1].trim());
                 } else {
