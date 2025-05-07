@@ -1,75 +1,75 @@
 Translate the following sentence into English: Pȳthia dīxit sē fāta nēscīre sed orācūlis crēdere?&&THE PYTHIA SAID THAT SHE DID NOT KNOW FATE/DESTINY BUT BELIEVED THE ORACLES. 
-B1: Now try this one: Puella vult scīre num heroa ventūrum esset.%%THE GIRL WANTS TO KNOW WHETHER THE HERO WILL RETURN.
-B2: Now try this one: Spēramus nōs victurōs esse, sed sōla Pȳthia scit.%%I HOPE THAT WE WILL WIN, BUT ONLY THE PYTHIA/ORACLE KNOWS. 
+B1: Now try this one: Puella vult scīre num heroa ventūrum esset.&&THE GIRL WANTS TO KNOW WHETHER THE HERO WILL RETURN.
+B2: Now try this one: Spēramus nōs victurōs esse, sed sōla Pȳthia scit.&&I HOPE THAT WE WILL WIN, BUT ONLY THE PYTHIA/ORACLE KNOWS. 
 
-What sisters had many defining features, such as huge boar-like tusks, hands of bronze, gold wings, and heads entwined with snakes?%%THE GORGONS 
-B1: Who was given two vials of Gorgon blood by Athena for use in healing?%%ASCLEPIUS 
-B2: Athena also gave two drops of Gorgon blood to what Athenian king?%%ERICHTHONIUS
+What sisters had many defining features, such as huge boar-like tusks, hands of bronze, gold wings, and heads entwined with snakes?&&THE GORGONS 
+B1: Who was given two vials of Gorgon blood by Athena for use in healing?&&ASCLEPIUS 
+B2: Athena also gave two drops of Gorgon blood to what Athenian king?&&ERICHTHONIUS
 
-What novus homo, born in Tusculum in 234 BC, distinguished his political life with his  distaste for everything Greek, solidified his literary reputation with historical and agricultural  prowess, and immortalized his name with the phrase Ceterum, censeo Carthaginem esse delendam, which is popularly abridged to Carthago delenda est!%%CATO THE ELDER
-B1: What was Cato’s full name?%%MARCUS PORCIUS CATO MAIOR/CENSOR(IUS)/SAPIENS/PRISCUS
-B2: Cato’s De Agri Cultura prominently features what vegetable, which is the modern genus of cabbage, broccoli, cauliflower, choy sum, rutabaga, turnips, mustard, and wild mustard?%%BRASSICA
+What novus homo, born in Tusculum in 234 BC, distinguished his political life with his  distaste for everything Greek, solidified his literary reputation with historical and agricultural  prowess, and immortalized his name with the phrase Ceterum, censeo Carthaginem esse delendam, which is popularly abridged to Carthago delenda est!&&CATO THE ELDER
+B1: What was Cato’s full name?&&MARCUS PORCIUS CATO MAIOR/CENSOR(IUS)/SAPIENS/PRISCUS
+B2: Cato’s De Agri Cultura prominently features what vegetable, which is the modern genus of cabbage, broccoli, cauliflower, choy sum, rutabaga, turnips, mustard, and wild mustard?&&BRASSICA
 
-From what Latin noun with what meaning do we derive “jaunty,” “genie,” and, “genteel”?%%GENUS—KIND 
-B1: From what Latin noun with what meaning do we derive “frond”?%%FRONS—LEAF
-B2: From what Latin noun with what meaning do we derive “lettuce”?%%LAC—MILK 
+From what Latin noun with what meaning do we derive “jaunty,” “genie,” and, “genteel”?&&GENUS—KIND 
+B1: From what Latin noun with what meaning do we derive “frond”?&&FRONS—LEAF
+B2: From what Latin noun with what meaning do we derive “lettuce”?&&LAC—MILK 
 
-What kind of conditional is found in the following sentence: Sī nōn tam temerē ēgisset, vicissēmus.%%PAST CONTRARY TO FACT 
-B1: Now translate that sentence (Sī nōn tam temerē ēgisset,  vicissēmus).%%IF HE HAD NOT ACTED SO RASHLY, WE WOULD HAVE WON. 
-B2: Now, translate this one: Cum improbus puer adsit, talia fiunt.%%SUCH THINGS HAPPEN WHEN A WICKED BOY IS PRESENT.
+What kind of conditional is found in the following sentence: Sī nōn tam temerē ēgisset, vicissēmus.&&PAST CONTRARY TO FACT 
+B1: Now translate that sentence (Sī nōn tam temerē ēgisset,  vicissēmus).&&IF HE HAD NOT ACTED SO RASHLY, WE WOULD HAVE WON. 
+B2: Now, translate this one: Cum improbus puer adsit, talia fiunt.&&SUCH THINGS HAPPEN WHEN A WICKED BOY IS PRESENT.
 
-What province, first invaded by Caesar, was Agricola the governor of from 77 to 85 CE?%%BRITTANIA/BRITAIN  
-B1: Agricola's first act as governor was to defeat the Ordovices and thereby complete the conquest of Wales. What predecessor of Agricola began the conquest of Wales?%%FRONTINUS  
-B2: What emperor recalled Agricola in 85 allegedly because he was jealous of Agricola's successes?%%DOMITIAN
+What province, first invaded by Caesar, was Agricola the governor of from 77 to 85 CE?&&BRITTANIA/BRITAIN  
+B1: Agricola's first act as governor was to defeat the Ordovices and thereby complete the conquest of Wales. What predecessor of Agricola began the conquest of Wales?&&FRONTINUS  
+B2: What emperor recalled Agricola in 85 allegedly because he was jealous of Agricola's successes?&&DOMITIAN
 
-We all know our chickpea-faced pal, Cicero. We all know that Cicero’s full 3-word name is Marcus Tullius Cicero. The cognomen, Cicero, is derived from cicer, referring to what type of vegetable?%%CHICKPEA (or GARBANZO BEAN)
-B1: Plutarch informs us that he was called this because one of his ancestors had a cleft lip and/or grew chickpeas as a profession. Sadly Cicero, Illinois does not grow chickpeas. However, the town of Cicero does encompass the Corey Steel Company in its jurisdiction. With that in mind, in which specific speech of Cicero, does Cicero ask his opponent Catiline if there was not one Roman youth to whom he “has not handed out steel for audacious crime?”%%IN CATILINAM I 
-B2: On what day was this speech given?%%NOVEMBER 8 
+We all know our chickpea-faced pal, Cicero. We all know that Cicero’s full 3-word name is Marcus Tullius Cicero. The cognomen, Cicero, is derived from cicer, referring to what type of vegetable?&&CHICKPEA (or GARBANZO BEAN)
+B1: Plutarch informs us that he was called this because one of his ancestors had a cleft lip and/or grew chickpeas as a profession. Sadly Cicero, Illinois does not grow chickpeas. However, the town of Cicero does encompass the Corey Steel Company in its jurisdiction. With that in mind, in which specific speech of Cicero, does Cicero ask his opponent Catiline if there was not one Roman youth to whom he “has not handed out steel for audacious crime?”&&IN CATILINAM I 
+B2: On what day was this speech given?&&NOVEMBER 8 
 
-Who, according to early Roman accounts, consented to marry the Libyan king Iarbas but secretly ordered a funeral pyre to be built and killed herself upon it?%%DIDO 
-B1: Dido’s first husband was Sychaeus, who was also related to her in what way?%%HE WAS HER UNCLE 
-B2: In Vergil’s Aeneid, what action of Iarbas causes Jupiter to have Mercury urge Aeneas to leave Dido?%%HE PRAYS TO (HIS FATHER) JUPITER
+Who, according to early Roman accounts, consented to marry the Libyan king Iarbas but secretly ordered a funeral pyre to be built and killed herself upon it?&&DIDO 
+B1: Dido’s first husband was Sychaeus, who was also related to her in what way?&&HE WAS HER UNCLE 
+B2: In Vergil’s Aeneid, what action of Iarbas causes Jupiter to have Mercury urge Aeneas to leave Dido?&&HE PRAYS TO (HIS FATHER) JUPITER
 
-In boarding schools, students are often provided for by the school staff due to the students’ distance from home. What Latin phrase describes the legal responsibility bestowed upon these schools to act on behalf of parents?%%IN LOCO PARENTIS 
-B1: What similar Latin phrase meaning “parent of the country” describes the power of the state to intervene to protect children, under circumstances of abuse or negligence of the child?%%PARENS PATRIAE 
-B2: What Latin phrase, literally meaning “holding the place” describes one temporarily fulfilling the duties of another, such as a substitute teacher?%%LOCUM TENENS 
+In boarding schools, students are often provided for by the school staff due to the students’ distance from home. What Latin phrase describes the legal responsibility bestowed upon these schools to act on behalf of parents?&&IN LOCO PARENTIS 
+B1: What similar Latin phrase meaning “parent of the country” describes the power of the state to intervene to protect children, under circumstances of abuse or negligence of the child?&&PARENS PATRIAE 
+B2: What Latin phrase, literally meaning “holding the place” describes one temporarily fulfilling the duties of another, such as a substitute teacher?&&LOCUM TENENS 
 
-What emperor was appointed by the Senate in 96 CE, promised to never execute a Senator without a trial, but nevertheless failed to control the army?%%NERVA 
-B1: Whom did Nerva indifferently exile early in his reign for conspiring for the throne?%%(GAIUS) CALPURNIUS CRASSUS  
-B2: What Praetorian Prefect induced the guards to lay siege to Nerva’s palace to execute Petronius Secundus, the lead conspirator against Domitian?%%CASPERIUS AELIANUS
+What emperor was appointed by the Senate in 96 CE, promised to never execute a Senator without a trial, but nevertheless failed to control the army?&&NERVA 
+B1: Whom did Nerva indifferently exile early in his reign for conspiring for the throne?&&(GAIUS) CALPURNIUS CRASSUS  
+B2: What Praetorian Prefect induced the guards to lay siege to Nerva’s palace to execute Petronius Secundus, the lead conspirator against Domitian?&&CASPERIUS AELIANUS
 
-Complete this analogy: facerēs is to facis as ______ is to vīs.%%VELLĒS 
-B1: Complete this analogy: volō is to velle as patior is to ______.%%PATĪ 
-B2: Complete this analogy: tollō is to sustulī as afferō is to ______.%%ATTULĪ
+Complete this analogy: facerēs is to facis as ______ is to vīs.&&VELLĒS 
+B1: Complete this analogy: volō is to velle as patior is to ______.&&PATĪ 
+B2: Complete this analogy: tollō is to sustulī as afferō is to ______.&&ATTULĪ
 
-What young relative of Odysseus pretended to have earned the enmity of Odysseus by speaking out against his treacherous murder of Palamedes, and thus won the Trojans’ trust?%%SINON  
-B1: Aeneas remarks that Sinon’s cunning and false tears had overcome the men who had not been subdued what two much stronger Greek warriors?%%ACHILLES and DIOMEDES
-B2: Aeneas’ recounts later in his story that whose mighty trunk lay on the shores of Pergamum, a headless corpse without a name?%%PRIAM’S 
+What young relative of Odysseus pretended to have earned the enmity of Odysseus by speaking out against his treacherous murder of Palamedes, and thus won the Trojans’ trust?&&SINON  
+B1: Aeneas remarks that Sinon’s cunning and false tears had overcome the men who had not been subdued what two much stronger Greek warriors?&&ACHILLES and DIOMEDES
+B2: Aeneas’ recounts later in his story that whose mighty trunk lay on the shores of Pergamum, a headless corpse without a name?&&PRIAM’S 
 
-What battle of the early Roman Republic was commemorated by a parade of horses and a temple to Castor and Pollux, despite the fact that it was a draw between Rome and the Latin League in 496 BC?%%BATTLE OF LAKE REGILLUS  
-B1: This battle was sparked because Rome signed a treaty with what city in 509 BCE that indicated Rome controlled Latium? %%CARTHAGE  
-B2: What early Plebeian leader negotiated the treaty that followed this battle so skillfully that Rome gained equal status to the Latin League?%%SPURIUS CASSIUS
+What battle of the early Roman Republic was commemorated by a parade of horses and a temple to Castor and Pollux, despite the fact that it was a draw between Rome and the Latin League in 496 BC?&&BATTLE OF LAKE REGILLUS  
+B1: This battle was sparked because Rome signed a treaty with what city in 509 BCE that indicated Rome controlled Latium? &&CARTHAGE  
+B2: What early Plebeian leader negotiated the treaty that followed this battle so skillfully that Rome gained equal status to the Latin League?&&SPURIUS CASSIUS
 
-What Latin word can mean “hero,” “husband,” or “man”?%%VIR 
-B1: What less common definition of the Latin word amīcus is a derivative of the Latin verb discō?%%DISCIPLE 
-B2: What less common definition of the Latin word exuviae is a future active imperative?%%MEMENTO 
+What Latin word can mean “hero,” “husband,” or “man”?&&VIR 
+B1: What less common definition of the Latin word amīcus is a derivative of the Latin verb discō?&&DISCIPLE 
+B2: What less common definition of the Latin word exuviae is a future active imperative?&&MEMENTO 
 
-Identify the correct form of the word “ribbon” if the following English sentence were to be translated into Latin: The girls understood that on Saturnalia, their hair should be fastened with ribbons.%%VITTĪS 
-B1: Vittae, since they relate to the human body, can often also be found with a passive verb and what type of accusative?%%SYNECHDOCHICAL/RESPECT/SPECIFICATION 
-B2: What Latin word meaning “thigh” notably takes this accusative in a dramatic scene in Book  V of Caesar’s De Bello Gallico?%%FĒMUR
+Identify the correct form of the word “ribbon” if the following English sentence were to be translated into Latin: The girls understood that on Saturnalia, their hair should be fastened with ribbons.&&VITTĪS 
+B1: Vittae, since they relate to the human body, can often also be found with a passive verb and what type of accusative?&&SYNECHDOCHICAL/RESPECT/SPECIFICATION 
+B2: What Latin word meaning “thigh” notably takes this accusative in a dramatic scene in Book  V of Caesar’s De Bello Gallico?&&FĒMUR
 
-What office was made sacrosanct after the second secession of the Plebeians in 449 BCE?%%TRIBUNE  
-B1: What did it mean in ancient Roman for a group of people to be sacrosanct?%%ARMS COULD NOT BE USED AGAINST THEM WITHIN THE CITY
-B2: What Plebeian-favoring consuls of 449 BCE passed the legislation that enacted this?%%VALERIUS POTITUS AND HORATIUS BARBATUS 
+What office was made sacrosanct after the second secession of the Plebeians in 449 BCE?&&TRIBUNE  
+B1: What did it mean in ancient Roman for a group of people to be sacrosanct?&&ARMS COULD NOT BE USED AGAINST THEM WITHIN THE CITY
+B2: What Plebeian-favoring consuls of 449 BCE passed the legislation that enacted this?&&VALERIUS POTITUS AND HORATIUS BARBATUS 
 
-Whose physical features—that is, his uncut hairs, fiery eyes, and dirty mantle—complement the ferruginea cumba by which he would convey passengers to the Underworld?%%CHARON’S 
-B1: What two primordial deities were the parents of Charon?%%EREBUS AND NYX 
-B2: Across what two rivers did Charon bring his passengers?%%ACHERON AND STYX
+Whose physical features—that is, his uncut hairs, fiery eyes, and dirty mantle—complement the ferruginea cumba by which he would convey passengers to the Underworld?&&CHARON’S 
+B1: What two primordial deities were the parents of Charon?&&EREBUS AND NYX 
+B2: Across what two rivers did Charon bring his passengers?&&ACHERON AND STYX
 
-Achilles, Aegisthus, Ajax Mastigophorus, Andromeda, Danae, Equus Troianus, Hermiona, and Tereus are all plays written by what author, the father of Latin literature?%%LIVIUS ANDRONICUS 
-B1: What two plays from those listed in the toss up share their name with plays written by Gnaeus Naevius?%%DANAE, EQUUS TROIANUS 
-B2: What work in Saturnian Meter is Andronicus’s magnum opus?%%ODYSSIA
+Achilles, Aegisthus, Ajax Mastigophorus, Andromeda, Danae, Equus Troianus, Hermiona, and Tereus are all plays written by what author, the father of Latin literature?&&LIVIUS ANDRONICUS 
+B1: What two plays from those listed in the toss up share their name with plays written by Gnaeus Naevius?&&DANAE, EQUUS TROIANUS 
+B2: What work in Saturnian Meter is Andronicus’s magnum opus?&&ODYSSIA
 
-Who am I? I’m popularly considered the father of Church song, I was elected to be bishop of Milan without having been baptized, and I wrote a lot of treatises on virgins, widows, and Christian faith?%%SAINT AMBROSE 
-B1: My De Officiis Ministrorum draws heavily in style and purpose from the De Officiis of what earlier author?%%CICERO 
-B2: While I was the father of Church song, what other author invented the Latin hymn?%%ST. HILARY OF POITIERS 
+Who am I? I’m popularly considered the father of Church song, I was elected to be bishop of Milan without having been baptized, and I wrote a lot of treatises on virgins, widows, and Christian faith?&&SAINT AMBROSE 
+B1: My De Officiis Ministrorum draws heavily in style and purpose from the De Officiis of what earlier author?&&CICERO 
+B2: While I was the father of Church song, what other author invented the Latin hymn?&&ST. HILARY OF POITIERS 
