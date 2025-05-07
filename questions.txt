@@ -1,67 +1,75 @@
-Translate the following sentence into Latin: We hope that you will enjoy this competition!&&SPĒRĀMUS VŌS/TĒ HŌC CERTĀMINE FRUCTŪRŌS/-ĀS/-UM/-AM ESSE! or SPĒRĀMUS FORE UT HŌC CERTĀMINE FRUĀMINĪ!
-B1: Now translate this sentence into Latin: We encourage you to use both knowledge and speed.&&HORTĀMUR (VŌS/TĒ) (UT) SCIENTIĀQUE CELERITĀTEQUE ŪTĀMINĪ/ŪTĀRIS or ET SCIENTIĀ ET CELERITĀTE
-B2: Using potior, say in Latin: If you play well, you will obtain a wonderful reward.&&SĪ BENE LUDĒS/LUDĒTIS/LŪSERIS/LŪSERITIS, PRAEMIŌ MĪRĀBILĪ/MĪRŌ/MĪRANDŌ POTIĒMINĪ/POTIĒRIS (or PRAEMIĪ MĪRĀBILIS/MĪRĪ/MĪRANDĪ)
+Translate the following sentence into English: Pȳthia dīxit sē fāta nēscīre sed orācūlis crēdere?&&THE PYTHIA SAID THAT SHE DID NOT KNOW FATE/DESTINY BUT BELIEVED THE ORACLES. 
+B1: Now try this one: Puella vult scīre num heroa ventūrum esset.%%THE GIRL WANTS TO KNOW WHETHER THE HERO WILL RETURN.
+B2: Now try this one: Spēramus nōs victurōs esse, sed sōla Pȳthia scit.%%I HOPE THAT WE WILL WIN, BUT ONLY THE PYTHIA/ORACLE KNOWS. 
 
-Zeus Katachthonios was an epithet of what god, who snatched up Persephone as she was picking flowers and carried her down to the Underworld?&&HADES
-B1: What epithet of Hades meant “The Unseen One”?&&AÏDONEUS
-B2: At what lake near Naples did Aeneas enter the Underworld?&&AVERNUS
+What sisters had many defining features, such as huge boar-like tusks, hands of bronze, gold wings, and heads entwined with snakes?%%THE GORGONS 
+B1: Who was given two vials of Gorgon blood by Athena for use in healing?%%ASCLEPIUS 
+B2: Athena also gave two drops of Gorgon blood to what Athenian king?%%ERICHTHONIUS
 
-Which of the following verbs, if any, has a reduplicated third principal part: cēdō, pergō, pellō, stertō?&&PELLŌ
-B1: Define the verb pellō and provide all principal parts.&&PELLŌ, PELLERE, PEPULĪ, PULSUS / PULSUM = (TO / I) BEAT / DRIVE
-B2: Define the verb pergō and provide all principal parts.&&PERGŌ, PERGERE, PERRĒXĪ, PERRĒCTUS / PERRĒCTUM = (TO / I) GO ON / PROCEED
+What novus homo, born in Tusculum in 234 BC, distinguished his political life with his  distaste for everything Greek, solidified his literary reputation with historical and agricultural  prowess, and immortalized his name with the phrase Ceterum, censeo Carthaginem esse delendam, which is popularly abridged to Carthago delenda est!%%CATO THE ELDER
+B1: What was Cato’s full name?%%MARCUS PORCIUS CATO MAIOR/CENSOR(IUS)/SAPIENS/PRISCUS
+B2: Cato’s De Agri Cultura prominently features what vegetable, which is the modern genus of cabbage, broccoli, cauliflower, choy sum, rutabaga, turnips, mustard, and wild mustard?%%BRASSICA
 
-The line “cui dōnō lepidum novum libellum” begins the first poem of what author, who addressed the sparrow of his love, Lesbia, in his second?&&CATULLUS
-B1: What was Lesbia’s real name, according to Apuleius?&&CLODIA
-B2: The marriage of what mythological couple was the subject of Catullus’ 64th poem?&&PELEUS and THETIS
+From what Latin noun with what meaning do we derive “jaunty,” “genie,” and, “genteel”?%%GENUS—KIND 
+B1: From what Latin noun with what meaning do we derive “frond”?%%FRONS—LEAF
+B2: From what Latin noun with what meaning do we derive “lettuce”?%%LAC—MILK 
 
-After what Roman military disaster did the Samnites receive possession of Fregellae and force the conquered soldiers to walk under a yoke of spears?&&CAUDINE FORKS
-B1: In what year did the Battle of the Caudine Forks occur?&&321 B.C.
-B2: Six years later, what commander’s forces were caught in the defile of Lautulae as he was trying to recover the coastal road to Campania?&&(QUINTUS FABIUS MAXIMUS) RULLIANUS
+What kind of conditional is found in the following sentence: Sī nōn tam temerē ēgisset, vicissēmus.%%PAST CONTRARY TO FACT 
+B1: Now translate that sentence (Sī nōn tam temerē ēgisset,  vicissēmus).%%IF HE HAD NOT ACTED SO RASHLY, WE WOULD HAVE WON. 
+B2: Now, translate this one: Cum improbus puer adsit, talia fiunt.%%SUCH THINGS HAPPEN WHEN A WICKED BOY IS PRESENT.
 
-What daughter of Evenus was allowed to choose between Apollo and Idas, selecting the latter because he would not leave her when she grew old?&&MARPESSA
-B1: What daughter of Idas and Marpessa married Meleager?&&CLEOPATRA
-B2: How did Marpessa die?&&COMMITTED SUICIDE (AFTER IDAS’ DEATH)
+What province, first invaded by Caesar, was Agricola the governor of from 77 to 85 CE?%%BRITTANIA/BRITAIN  
+B1: Agricola's first act as governor was to defeat the Ordovices and thereby complete the conquest of Wales. What predecessor of Agricola began the conquest of Wales?%%FRONTINUS  
+B2: What emperor recalled Agricola in 85 allegedly because he was jealous of Agricola's successes?%%DOMITIAN
 
-What English noun, derived from a verb meaning “to shine” is “a branched, often ornate, lighting fixture suspended from a ceiling?”&&CHANDELIER
-B1: What English adjective derived from an adverb meaning “secretly” means “executed in concealment?”&&CLANDESTINE
-B2: What English verb derived from a noun meaning “heel” means “to instill by persistent instruction.”&&INCULCATE
+We all know our chickpea-faced pal, Cicero. We all know that Cicero’s full 3-word name is Marcus Tullius Cicero. The cognomen, Cicero, is derived from cicer, referring to what type of vegetable?%%CHICKPEA (or GARBANZO BEAN)
+B1: Plutarch informs us that he was called this because one of his ancestors had a cleft lip and/or grew chickpeas as a profession. Sadly Cicero, Illinois does not grow chickpeas. However, the town of Cicero does encompass the Corey Steel Company in its jurisdiction. With that in mind, in which specific speech of Cicero, does Cicero ask his opponent Catiline if there was not one Roman youth to whom he “has not handed out steel for audacious crime?”%%IN CATILINAM I 
+B2: On what day was this speech given?%%NOVEMBER 8 
 
-What imitator of Thucydides became the first popular monographist in Latin literature when he wrote Bellum Catilīnae and Bellum Iugurthīnum?&&SALLUST
-B1: What annalistic work did Sallust also begin to write before dying?&&HISTŌRIAE
-B2: What politician saved Sallust from disgrace and obtained for him the governorship of Africa Nova?&&JULIUS CAESAR
+Who, according to early Roman accounts, consented to marry the Libyan king Iarbas but secretly ordered a funeral pyre to be built and killed herself upon it?%%DIDO 
+B1: Dido’s first husband was Sychaeus, who was also related to her in what way?%%HE WAS HER UNCLE 
+B2: In Vergil’s Aeneid, what action of Iarbas causes Jupiter to have Mercury urge Aeneas to leave Dido?%%HE PRAYS TO (HIS FATHER) JUPITER
 
-Soon after Caecilius Metellus defeated Critolaus in central Greece, Lucius Mummius overran what city, razing it in 146 B.C.?&&CORINTH
-B1: Into what newly-formed Roman province was Corinth incorporated?&&ACHAEA
-B2: The sack of Corinth and creation of Achaea occurred in the same year as the sack of what city following the end of the Third Punic War?&&CARTHAGE
+In boarding schools, students are often provided for by the school staff due to the students’ distance from home. What Latin phrase describes the legal responsibility bestowed upon these schools to act on behalf of parents?%%IN LOCO PARENTIS 
+B1: What similar Latin phrase meaning “parent of the country” describes the power of the state to intervene to protect children, under circumstances of abuse or negligence of the child?%%PARENS PATRIAE 
+B2: What Latin phrase, literally meaning “holding the place” describes one temporarily fulfilling the duties of another, such as a substitute teacher?%%LOCUM TENENS 
 
-A “handbook that is kept constantly at hand for consultation” can be known by what two-word Latin phrase meaning “go with me”?&&VADE MECUM / VĀDE MĒCUM
-B1: An “inquisitive or gossipy person” can be known by what Latin word meaning “what now”?&&QUIDNUNC / QUIDNUNC
-B2: The “latest possible date for something” can be known by what three-word Latin phrase meaning “limit before which”?&&TERMINUS ANTE QUEM
+What emperor was appointed by the Senate in 96 CE, promised to never execute a Senator without a trial, but nevertheless failed to control the army?%%NERVA 
+B1: Whom did Nerva indifferently exile early in his reign for conspiring for the throne?%%(GAIUS) CALPURNIUS CRASSUS  
+B2: What Praetorian Prefect induced the guards to lay siege to Nerva’s palace to execute Petronius Secundus, the lead conspirator against Domitian?%%CASPERIUS AELIANUS
 
-Reared by the Oceanid Capheira and the Telchines, what god spent most of his time at a watery palace at Aegae?&&POSEIDON
-B1: When Poseidon first courted his wife Amphitrite, she initially fled, but was persuaded to marry Poseidon by what minor sea deity?&&DELPHIN(US)
-B2: When Helius and Poseidon competed for the patronage of Corinth, who arbitrated the dispute?&&BRIAREUS
+Complete this analogy: facerēs is to facis as ______ is to vīs.%%VELLĒS 
+B1: Complete this analogy: volō is to velle as patior is to ______.%%PATĪ 
+B2: Complete this analogy: tollō is to sustulī as afferō is to ______.%%ATTULĪ
 
-Māiālis, nefrēns, scrōfa, verrēs, and sūs were all words for what animal?&&PIG / SWINE / SOW
-B1: In ancient Rome, what was defrūtum?&&(GRAPE) JAM / JELLY
-B2: What ancient Roman dish was a hash-like mixture comprising fish, eggs, and cheese?&&TYROTARĪCHUS
+What young relative of Odysseus pretended to have earned the enmity of Odysseus by speaking out against his treacherous murder of Palamedes, and thus won the Trojans’ trust?%%SINON  
+B1: Aeneas remarks that Sinon’s cunning and false tears had overcome the men who had not been subdued what two much stronger Greek warriors?%%ACHILLES and DIOMEDES
+B2: Aeneas’ recounts later in his story that whose mighty trunk lay on the shores of Pergamum, a headless corpse without a name?%%PRIAM’S 
 
-Quid Anglicē significat “ūdus” vel “hūmidus”?&&WET
-B1: Quid Anglicē significat “formīdō” vel “pavor”?&&FEAR
-B2: Quid Anglicē significat “ūrō” vel “torreō”?&&BURN
+What battle of the early Roman Republic was commemorated by a parade of horses and a temple to Castor and Pollux, despite the fact that it was a draw between Rome and the Latin League in 496 BC?%%BATTLE OF LAKE REGILLUS  
+B1: This battle was sparked because Rome signed a treaty with what city in 509 BCE that indicated Rome controlled Latium? %%CARTHAGE  
+B2: What early Plebeian leader negotiated the treaty that followed this battle so skillfully that Rome gained equal status to the Latin League?%%SPURIUS CASSIUS
 
-Welcome to the Mūsica Rōmāna! What “recent” mega-hit might be translated alliteratively into Latin as “Vetus Via Vīcī”?&&OLD TOWN ROAD
-B1: Using a double dative, translate into Latin the title of Ed Sheeran’s recent hit, “I Don’t Care”?&&MIHI NŌN EST CŪRAE
-B2: Using an emphatic Latin form, translate into Latin the title of Taylor Swift’s hit song, ME!&&MĒMĒ! / MĒMET!
+What Latin word can mean “hero,” “husband,” or “man”?%%VIR 
+B1: What less common definition of the Latin word amīcus is a derivative of the Latin verb discō?%%DISCIPLE 
+B2: What less common definition of the Latin word exuviae is a future active imperative?%%MEMENTO 
 
-Who quoted the stoic soldier Vulteius, a character from his own epic poem Pharsālia, while committing suicide at the order of Nero?&&LUCAN
-B1: Give another title for the Pharsālia.&&BELLUM CĪVĪLE // DĒ BELLŌ CĪVĪLĪ
-B2: Of what town in Spain was Lucan a native?&&CORDUBA / CÓRDOBA
+Identify the correct form of the word “ribbon” if the following English sentence were to be translated into Latin: The girls understood that on Saturnalia, their hair should be fastened with ribbons.%%VITTĪS 
+B1: Vittae, since they relate to the human body, can often also be found with a passive verb and what type of accusative?%%SYNECHDOCHICAL/RESPECT/SPECIFICATION 
+B2: What Latin word meaning “thigh” notably takes this accusative in a dramatic scene in Book  V of Caesar’s De Bello Gallico?%%FĒMUR
 
-At various times, what man considered Marcus Claudius Marcellus, Marcus Vipsanius Agrippa, and Gaius and Lucius Caesar as heirs, only to outlive them all as Rome’s first emperor?&&AUGUSTUS / OCTAVIAN / OCTAVIUS
-B1: Lucius and Gaius Caesar were the sons of what woman, Augustus’ daughter?&&JULIA (THE ELDER)
-B2: In 2 B.C., Julia was found guilty of adultery and treason, causing Augustus to exile her to what island?&&PANDATERIA
+What office was made sacrosanct after the second secession of the Plebeians in 449 BCE?%%TRIBUNE  
+B1: What did it mean in ancient Roman for a group of people to be sacrosanct?%%ARMS COULD NOT BE USED AGAINST THEM WITHIN THE CITY
+B2: What Plebeian-favoring consuls of 449 BCE passed the legislation that enacted this?%%VALERIUS POTITUS AND HORATIUS BARBATUS 
 
-Who was punished in the Underworld by being bound to a pillar with snakes because they had piled up mountains in order to storm Olympus?&&OTUS and EPHIALTES // ALOADAE
-B1: What type of animal sat on the pillar to which Otus and Ephialtes were bound in the Underworld?&&(SCREECH-)OWL
-B2: On what island did Otus and Ephialtes accidentally kill each other with javelins?&&NAXOS / DIA / STRONGYLE
+Whose physical features—that is, his uncut hairs, fiery eyes, and dirty mantle—complement the ferruginea cumba by which he would convey passengers to the Underworld?%%CHARON’S 
+B1: What two primordial deities were the parents of Charon?%%EREBUS AND NYX 
+B2: Across what two rivers did Charon bring his passengers?%%ACHERON AND STYX
+
+Achilles, Aegisthus, Ajax Mastigophorus, Andromeda, Danae, Equus Troianus, Hermiona, and Tereus are all plays written by what author, the father of Latin literature?%%LIVIUS ANDRONICUS 
+B1: What two plays from those listed in the toss up share their name with plays written by Gnaeus Naevius?%%DANAE, EQUUS TROIANUS 
+B2: What work in Saturnian Meter is Andronicus’s magnum opus?%%ODYSSIA
+
+Who am I? I’m popularly considered the father of Church song, I was elected to be bishop of Milan without having been baptized, and I wrote a lot of treatises on virgins, widows, and Christian faith?%%SAINT AMBROSE 
+B1: My De Officiis Ministrorum draws heavily in style and purpose from the De Officiis of what earlier author?%%CICERO 
+B2: While I was the father of Church song, what other author invented the Latin hymn?%%ST. HILARY OF POITIERS 
